@@ -1,0 +1,1 @@
+# svelte-vite-electron-template
